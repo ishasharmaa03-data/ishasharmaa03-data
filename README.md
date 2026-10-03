@@ -9,25 +9,6 @@
   </tr>
 </table>
 
-       
-<img src="https://komarev.com/ghpvc/?username=kumod007&style=flat-square&color=blue" alt=""/>
-
-<div align="center">
-  
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
-</div>
-<div align="center">
-<div id="badges">
-  <a href="https://www.linkedin.com/in/kumod-sharma-ab999124b/">
-    <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.kaggle.com/kdsharma">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=black" alt="Kaggle Badge"/>
-  </a>
-  <a href="https://www.hackerrank.com/Isha Sharma?hr_r=1">
-    <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
-  </a></div></div>
-
 
 
 <h1>About Me ❤️</h1>
@@ -47,7 +28,4 @@
 <br>
 <br>
 
-# :fire: My Stats:
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kumod007&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
