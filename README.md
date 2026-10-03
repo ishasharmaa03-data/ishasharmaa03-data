@@ -32,14 +32,14 @@
 
 <h1>About Me ❤️</h1>
 
-- 💡 Data Science Enthusiast with a background in Mathematics.
-- 🎓 Accomplished the requirements for a prestigious Diploma in Data Science.
-- 🏢 Currently employed as a Data Analyst in a Marketing Research company.
-- ⚡ In my free time, I love to solve problems on HackerRank and read tech articles.
-- 😆 Fun fact: If data science were a sport, I'd be the MVP of finding patterns in numbers and predicting the future!
-- 📫 How to reach me: <a href="mailto:kumod.aws@gmail.com">kumod.aws@gmail.com</a> | or connect with me on <a href="https://www.linkedin.com/in/kumod-sharma/">My LinkedIn.</a>
-- <p>✍️ Check out my blogs on topics related to data science. You can find them on my <a href="https://medium.com/@kumod.aws">blog profile</a>.</p>
-
+- 📊 Aspiring Data Analyst passionate about turning raw data into meaningful insights.
+* 🎓 Currently building my skills in Data Analytics and Business Intelligence.
+* 🐍 Learning and working with Python, SQL, Excel, and Power BI.
+* 🔍 I enjoy exploring datasets, finding patterns, and solving real-world problems using data.
+* 📈 Interested in data visualization, data cleaning, exploratory data analysis, and business insights.
+* 💡 Always curious to learn new tools, techniques, and technologies in the world of data.
+* 🧠 Currently strengthening my knowledge of SQL, Python, Excel & Power BI.
+* 🚀 My goal is to start my career as a Data Analyst and use data to support better business decisions.
 <br>
 <br>
 
